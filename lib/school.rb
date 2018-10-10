@@ -1,8 +1,5 @@
 class School
-
-  def initialize(school)
-    roster = {}
-  end
+  roster = {}
 
   def add_student(name, grade)
 
