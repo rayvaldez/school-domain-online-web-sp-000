@@ -1,5 +1,5 @@
 class School
-  roster = {}
+  roster = Array.new 
   
   def add_student(name, grade)
 
